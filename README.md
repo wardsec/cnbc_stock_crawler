@@ -83,3 +83,13 @@ while True:
     print(data.head())
     time.sleep(10)
 ```
+Exemplo de retornos
+
+```shell
+Date                 Price
+2024-02-19 12:00:00  1.997
+2024-02-19 12:00:01  1.998
+2024-02-19 12:00:02  1.999
+...
+
+```
